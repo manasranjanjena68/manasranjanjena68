@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/163158814?v=4" width="120" align="left">
 ### नमस्ते 🙏 I'm Manas Ranjan Jena (aka Biku) — MCA Student | MERN Stack Developer
 
 🚀 I’m currently learning and building cool projects with **MERN Stack**  
@@ -32,4 +33,33 @@ Here are a few things I’ve built or working on:
 ---
 
 ### 🧠 Fun Fact:
-> I love to mix design, code — and I'm on a journey to become a top developer with strong communication skills.  
+> I love to mix design, code — and I'm on a journey to become a top developer with strong communication skills.
+
+
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats
+
+![Biku's GitHub stats](https://github-readme-stats.vercel.app/api?username=manasranjanjena68&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasranjanjena68&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=manasranjanjena68&theme=tokyonight)
+
+---
+
