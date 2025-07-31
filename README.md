@@ -1,4 +1,4 @@
-<img src="[IMAGE_LINK_HERE](https://github.com/manasranjanjena68/manasranjanjena68/blob/main/WhatsApp%20Image%202025-01-14%20at%2023.23.21_015ca719.jpg)" width="120" align="left">
+<img src="(https://github.com/manasranjanjena68/manasranjanjena68/blob/main/WhatsApp%20Image%202025-01-14%20at%2023.23.21_015ca719.jpg)" width="120" align="left">
 
 ### नमस्ते 🙏 I'm Manas Ranjan Jena (aka Biku) — MCA Student | MERN Stack Developer
 
