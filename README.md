@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/163158814?v=4" width="120" align="left">
+<img src=""C:\Users\manas\Desktop\manas\WhatsApp Image 2025-01-14 at 23.23.21_015ca719.jpg"" width="120" align="left">
 
 ### नमस्ते 🙏 I'm Manas Ranjan Jena (aka Biku) — MCA Student | MERN Stack Developer
 
