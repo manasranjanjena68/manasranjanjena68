@@ -29,7 +29,7 @@ Here are a few things I’ve built or working on:
 
 ### 📫 How to Reach Me
 - 📧 manasranjanjena68@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/manas-ranjanjena/)  
+- 💼 [LinkedIn][(https://www.linkedin.com/in/manas-ranjanjena/)](https://www.linkedin.com/in/manas-ranjan-jena/)  
 - 🌍 Location: Bhubaneswar, Odisha
 
 ---
