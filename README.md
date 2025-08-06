@@ -20,6 +20,7 @@
 Here are a few things I’ve built or working on:
 - 🔸 Flipkart Clone (HTML,CSS)
 - 🔸 Amazon Clone (HTML,CSS)
+- 🔸 Crop Prediction Model (HTML,CSS,JS,FLASK,)
 - 🔸 Portfolio Website (coming soon)
 - 🔸 Freelance Landing Pages
 
