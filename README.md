@@ -72,7 +72,7 @@ Here are a few things I’ve built or working on:
 ---
 ---
 
-### 🙏 Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 ⭐️ Feel free to star repositories or connect with me on [LinkedIn][(https://www.linkedin.com/in/manasranjanjena/)](https://www.linkedin.com/in/manas-ranjan-jena/)
 
