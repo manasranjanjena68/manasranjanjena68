@@ -75,7 +75,6 @@ Here are a few things I’ve built or working on:
 ![snake gif](https://github.com/manasranjanjena68/manasranjanjena68/blob/output/github-contribution-grid-snake.svg)
 
 ---
----
 
 ###  Thanks for visiting my profile!
 
