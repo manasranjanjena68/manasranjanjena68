@@ -62,9 +62,8 @@ Here are a few things I’ve built or working on:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasranjanjena68&layout=compact&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasranjanjena68&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manasranjanjena68&theme=tokyonight" alt="GitHub Streak" />
+
 
 
 
