@@ -62,7 +62,7 @@ Here are a few things I’ve built or working on:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasranjanjena68&layout=compact&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com?user=manasranjanjena68&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=manasranjanjena68&theme=tokyonight">
 
 
 
