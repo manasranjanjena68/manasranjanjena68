@@ -28,6 +28,13 @@ Here are a few things I’ve built or working on:
 
 ---
 
+### 🏆 Achievements & Certifications
+- [Coursera: Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/DEMO-LINK)
+- [HackerRank: JavaScript Gold Badge](https://www.hackerrank.com/binayak15)
+- Add more here!
+
+---
+
 ### 📫 How to Reach Me
 - 📧 [Email]manasranjanjena68@gmail.com  
 - 💼 [LinkedIn][(https://www.linkedin.com/in/manas-ranjanjena/)](https://www.linkedin.com/in/manas-ranjan-jena/)  
@@ -57,10 +64,6 @@ Here are a few things I’ve built or working on:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manasranjanjena68&layout=compact&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasranjanjena68&theme=tokyonight" alt="GitHub Streak" />
-
-
-
-
 
 
 
