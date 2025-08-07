@@ -45,7 +45,7 @@ Here are a few things I’ve built or working on:
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,python,flask,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,tailwind,python,flask,mysql,git,github,vscode&theme=dark" />
 </p>
 
 ---
