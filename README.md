@@ -69,7 +69,7 @@ Loading..
 
 ### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/manasranjanjena68/manasranjanjena68/blob/output/github-contribution-grid-snake.svg)
+![snake gif] (https://github.com/manasranjanjena68/manasranjanjena68/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
