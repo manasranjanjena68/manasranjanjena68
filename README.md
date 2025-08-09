@@ -29,9 +29,7 @@ Here are a few things I’ve built or working on:
 ---
 
 ### 🏆 Achievements & Certifications
-- [Coursera: Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/DEMO-LINK)
-- [HackerRank: JavaScript Gold Badge](https://www.hackerrank.com/binayak15)
-- Add more here!
+Loading..
 
 ---
 
