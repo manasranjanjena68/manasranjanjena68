@@ -44,7 +44,6 @@ Loading...
 > I love to mix design, code — and I'm on a journey to become a top developer with strong communication skills.
 
 
-
 ---
 
 ### 🛠️ Tech Stack & Tools
