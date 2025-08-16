@@ -6,7 +6,7 @@
 🚀 I’m currently learning and building cool projects with **MERN Stack**  
 🎯 Actively working on becoming a Full Stack Developer  
 🛠️ Tools & Tech I use: `React`, `Node.js`, `MongoDB`, `JavaScript`, `HTML`, `CSS`, `Git`, `GitHub`, `VS Code` 
-
+  
 ---
 
 ### 🧑‍💻 What I Do
