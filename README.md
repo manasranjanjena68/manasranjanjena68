@@ -9,7 +9,7 @@
    
 --- 
 
-### 🧑‍💻 What I Do
+### 🧑‍💻 What I Do 
 - 🌐 Frontend + Backend Projects  
 - 📦 Freelancing with Web & UI/UX skills  
 - ✍️ Learning Email Copywriting & Communication   
