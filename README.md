@@ -14,7 +14,7 @@
 - 📦 Freelancing with Web & UI/UX skills  
 - ✍️ Learning Email Copywriting & Communication   
 
----
+--- 
    
 ### 🛠️ Projects
 Here are a few things I’ve built or working on:
