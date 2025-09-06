@@ -7,7 +7,7 @@
 🎯 Actively working on becoming a Full Stack Developer           
 🛠️ Tools & Tech I use: `React`, `Node.js`, `MongoDB`, `JavaScript`, `HTML`, `CSS`, `Git`, `GitHub`, `VS Code`     
    
----   
+---    
 
 ### 🧑‍💻 What I Do 
 - 🌐 Frontend + Backend Projects  
