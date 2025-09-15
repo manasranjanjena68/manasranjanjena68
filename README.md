@@ -25,7 +25,7 @@ Here are a few things I’ve built or working on:
 - 🔸 Freelance Landing Pages
 
 > 🔗 Check my repositories below for full code & details
-
+ 
 ---
 
 ### 🏆 Achievements & Certifications
