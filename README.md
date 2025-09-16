@@ -35,7 +35,7 @@ Loading...
 
 ### 📫 How to Reach Me
 - 📧 [Email]manasranjanjena68@gmail.com    
-- 💼 [LinkedIn][(https://www.linkedin.com/in/manas-ranjanjena/)](https://www.linkedin.com/in/manas-ranjan-jena/)   
+- 💼 [LinkedIn][(https://www.linkedin.com/in/manas-ranjanjena/)](https://www.linkedin.com/in/manas-ranjan-jena/)    
 - 🌍 Location: Bhubaneswar, Odisha
    
 ---
